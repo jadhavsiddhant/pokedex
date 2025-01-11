@@ -40,6 +40,6 @@ The app features a clean and user-friendly interface with a retro gaming aesthet
 
 ## Installation
 
-1. Clone this repository:
+1. Visit this Website:
    ```bash
-   git clone https://jadhavsiddhant.github.io/pokedex/
+   https://jadhavsiddhant.github.io/pokedex/
