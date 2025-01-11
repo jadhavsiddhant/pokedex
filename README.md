@@ -13,7 +13,7 @@ The app features a clean and user-friendly interface with a retro gaming aesthet
 
 ## Live Demo
 
-[Link to your hosted project (if applicable)] 
+https://jadhavsiddhant.github.io/pokedex/
 
 ## Features
 
